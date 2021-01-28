@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Suppress version controlof any .png files
+*.png
